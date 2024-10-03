@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amin Hijaz</h1>
-<h3 align="center">An Empowering Future Software Engineer at TripleTen!</h3>
+<h1 align="center">Hello, I'm Amin Hijaz</h1>
+<h3 align="center"> Im a currently a Student Software Engineer at TripleTen!</h3>
 
 - 🌱 I’m currently learning **JaveScript**
 
