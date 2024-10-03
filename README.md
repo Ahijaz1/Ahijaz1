@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JaveScript**
 
-- 💬 About Me **"As a current student at TripleTen's Software Engineering program, I am deeply immersed in an intensive, hands-on curriculum that equips me with a robust foundation in both front-end and back-end development. I am building expertise in essential technologies like HTML, CSS3, JavaScript, Git, GitHub, and Chrome DevTools. Additionally, I am proficient in tools such as Prettier, Figma, and React, and I'm gaining experience in backend development using Node.js and Express.js. This comprehensive training is preparing me to confidently design, develop, and maintain full-stack web applications, laying the groundwork for a successful career in software engineering."**
+- 💬 About Me **As a current student at TripleTen's Software Engineering program, I am deeply immersed in an intensive, hands-on curriculum that equips me with a robust foundation in both front-end and back-end development. I am building expertise in essential technologies like HTML, CSS3, JavaScript, Git, GitHub, and Chrome DevTools. Additionally, I am proficient in tools such as Prettier, Figma, and React, and I'm gaining experience in backend development using Node.js and Express.js. This comprehensive training is preparing me to confidently design, develop, and maintain full-stack web applications, laying the groundwork for a successful career in software engineering.**
 
 - 📫 How to reach me **hijaz.amin1@gmail.com**
 
