@@ -6,7 +6,7 @@
 
 - 💬 About Me:
 
-**I am a graduate of TripleTen’s Software Engineering program, where I completed an intensive, hands-on curriculum focused on both front-end and back-end development. Through the program, I developed a strong command of core technologies including HTML, CSS3, JavaScript, Git, GitHub, and Chrome DevTools. I also gained practical experience working with modern tools and frameworks such as React, Figma, and Prettier, as well as backend technologies including Node.js and Express.js. This training has prepared me to design, build, and maintain scalable full-stack web applications and confidently transition into a professional software engineering role.**
+    **I am a graduate of TripleTen’s Software Engineering program, where I completed an intensive, hands-on curriculum focused on both front-end and back-end development. Through the program, I developed a strong command of core      technologies including HTML, CSS3, JavaScript, Git, GitHub, and Chrome DevTools. I also gained practical experience working with modern tools and frameworks such as React, Figma, and Prettier, as well as backend technologies      including Node.js and Express.js. This training has prepared me to design, build, and maintain scalable full-stack web applications and confidently transition into a professional software engineering role.**
 
 - 📫 How to reach me **hijaz.amin1@gmail.com**
   
